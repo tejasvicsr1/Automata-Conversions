@@ -1,4 +1,4 @@
-# Assignment Report
+# Automata Conversions
 
 ---
 
@@ -7,8 +7,6 @@
 ---
 
 ### Tejasvi Chebrolu
-
-2019114005
 
 ---
 
